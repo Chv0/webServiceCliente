@@ -1,0 +1,8 @@
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\obj\Debug\ClienteWS.csproj.AssemblyReference.cache
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\obj\Debug\ClienteWS.csproj.SuggestedBindingRedirects.cache
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\obj\Debug\ClienteWS.csproj.CoreCompileInputs.cache
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\bin\Debug\ClienteWS.exe.config
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\bin\Debug\ClienteWS.exe
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\bin\Debug\ClienteWS.pdb
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\obj\Debug\ClienteWS.exe
+D:\Users\Chv0\source\repos\ClienteWS\ClienteWS\obj\Debug\ClienteWS.pdb
